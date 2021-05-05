@@ -10,6 +10,7 @@ function playSound(e) {
   audio.currentTime = 0;
   audio.play();
   key.classList.add("playing");
+  //this must be
 }
 
 const keys = [...document.querySelectorAll(".key")];
