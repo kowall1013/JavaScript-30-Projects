@@ -21,8 +21,7 @@ function draw(e) {
   ctx.beginPath();
   ctx.moveTo(lastX, lastY);
   ctx.lineTo(e.offsetX, e.offsetY);
-  ctx.stroke();
-  [lastX, lastY] = [e.offsetX, e.offsetY];
+  ctx.stroke()[(lastX, lastY)] = [e.offsetX, e.offsetY];
   hue++;
   if (hue >= 360) {
     hue = 0;
