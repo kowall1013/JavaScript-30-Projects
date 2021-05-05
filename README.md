@@ -68,13 +68,20 @@
 
 ---
 
-[08-VIDEO-PLAYER](https://kwl-video-player.netlify.app/) 
+[09-SLIDE-SCROLL](https://kwl-slide-scroll.netlify.app/) 
 ---
 ### Important stuff in project
-- styling video player
-- input type range
-- video html
-- events play, pause, timeupdate
+- debounce function
+- window.scrollY / innerHTML 
+- OffSetTop
+
+---
+
+[10-LOCALE-STORAGE](https://kwl-locale-storage.netlify.app/) 
+---
+### Important stuff in project
+- localeStorage
+- innerHTML
 
 
 
