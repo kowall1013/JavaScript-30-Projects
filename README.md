@@ -83,6 +83,43 @@
 - localeStorage
 - innerHTML
 
+---
+
+[12-TEXT-SHADOW-MOUSE-EVENT](https://kwl-text-shadow.netlify.app/) 
+---
+### Important stuff in project
+- mouse event
+- destructruring
+- js in css
+
+---
+
+[13-SORTING-BAND-NAMES](https://kwl-sorting-band-names.netlify.app/) 
+---
+### Important stuff in project
+- replace method
+- EgxReg
+- sort method
+
+---
+
+[14-SUM-UP-TOTAL-TIME](https://kwl-sum-up-total-time.netlify.app/) 
+---
+### Important stuff in project
+- split method
+- reduce method
+- modulo
+
+---
+
+[15-WEB-CAM-FUN](https://optimistic-joliot-33c95b.netlify.app/) 
+---
+### Important stuff in project
+- canvas
+- video
+- navigator API
+- Filters effect
+
 
 
 
