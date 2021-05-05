@@ -14,6 +14,12 @@ const bands = [
   "An Old Dog",
 ];
 
+/**
+ *
+ * @param {string} bandName
+ * @returns string
+ */
+
 function strip(bandName) {
   return bandName.replace(/^(a |the |an )/i, "").trim();
 }
