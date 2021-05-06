@@ -172,6 +172,37 @@
 - setProperty
 - events mouseenter, mouseleave
 
+---
+
+[21-DRAG-AND-DROP](https://kwl-drag-drop.netlify.app/)
+---
+### Important stuff in project
+- events mousedown / mouseleave / mouseup / mousemove
+
+---
+
+[22-VIDEO-SPEED-CONTROLLER](https://kwl-video-speed-controller.netlify.app/)
+---
+### Important stuff in project
+- numbers to percent
+- video
+
+---
+
+[23-TIMER-COUNTDOWN](https://kwl-timer-countdown.netlify.app/)
+---
+### Important stuff in project
+- Date Object
+
+---
+
+[24-WHACK-A-MOLE](https://kwl-mole.netlify.app/)
+---
+### Important stuff in project
+- setTimeout
+- isTrusted properties
+
+
 
 
 
