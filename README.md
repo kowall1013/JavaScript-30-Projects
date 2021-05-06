@@ -85,7 +85,7 @@
 
 ---
 
-[12-TEXT-SHADOW-MOUSE-EVENT](https://kwl-text-shadow.netlify.app/) 
+[11-TEXT-SHADOW-MOUSE-EVENT](https://kwl-text-shadow.netlify.app/) 
 ---
 ### Important stuff in project
 - mouse event
@@ -94,7 +94,7 @@
 
 ---
 
-[13-SORTING-BAND-NAMES](https://kwl-sorting-band-names.netlify.app/) 
+[12-SORTING-BAND-NAMES](https://kwl-sorting-band-names.netlify.app/) 
 ---
 ### Important stuff in project
 - replace method
@@ -103,7 +103,7 @@
 
 ---
 
-[14-SUM-UP-TOTAL-TIME](https://kwl-sum-up-total-time.netlify.app/) 
+[13-SUM-UP-TOTAL-TIME](https://kwl-sum-up-total-time.netlify.app/) 
 ---
 ### Important stuff in project
 - split method
@@ -112,13 +112,65 @@
 
 ---
 
-[15-WEB-CAM-FUN](https://optimistic-joliot-33c95b.netlify.app/) 
+[14-WEB-CAM-FUN](https://optimistic-joliot-33c95b.netlify.app/) 
 ---
 ### Important stuff in project
 - canvas
 - video
 - navigator API
 - Filters effect
+
+---
+
+[15-SPEECH-RECOGNITION](https://kwl-speach-recognition.netlify.app/) 
+---
+### Important stuff in project
+- new SpeechRecognition()
+- replace method
+- events result, end
+
+---
+
+[16-GEOLOCATION](https://kwl-geolocation.netlify.app/) 
+---
+### Important stuff in project
+- navigator
+- geolocation
+
+---
+
+[17-FOLLOW-ALONG-LINKS](https://kwl-follow.netlify.app/) 
+---
+### Important stuff in project
+- getBoundingClientRect()
+- width/height/transform manipulate from JS
+
+---
+
+[18-SPEECH-SYNTHESIS](https://kwl-speech-synthesis.netlify.app/) 
+---
+### Important stuff in project
+- new SpeechSynthesisUtterance()
+- events voiceschanged
+
+---
+
+[19-STICKY-NAV](https://kwl-sticky-nav.netlify.app/) 
+---
+### Important stuff in project
+- offsetTop
+- window.scrollY
+- stling css
+
+---
+
+[20-STRIPE-FOLLOW-ALONG-COURSOR](https://kwl-stripe-follow-along-coursor.netlify.app/) 
+---
+### Important stuff in project
+- setTimeout
+- coords
+- setProperty
+- events mouseenter, mouseleave
 
 
 
